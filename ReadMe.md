@@ -30,7 +30,7 @@ Do not use the word unclear.
 
   
 
-##Abstract 
+### Abstract 
 
 - length 50-200 words.
 
@@ -46,7 +46,7 @@ Do not use the word unclear.
 
   Five sentences are enough, one for each of the points above.
 
-##Introduction
+### Introduction
 
 An expanded version of the abstract, but with a paragraph or two, not a sentence, for each component.
 
@@ -58,9 +58,9 @@ An expanded version of the abstract, but with a paragraph or two, not a sentence
   3. why the approach taken is a good one, and why the outcomes are significant.
 - The reader should understand the scope of the work, and of the problem and the contribution.
 
-##Body
+### Body
 
-##Conclusions
+### Conclusions
 
 Write "**Conslusions**" not "conclusion".
 
@@ -68,11 +68,7 @@ Write "**Conslusions**" not "conclusion".
 
 **Future work** look beyond the current context.
 
-
-
-
-
-## The first draft
+### The first draft
 
 > The writing should begin as soon as the research is started. 
 
