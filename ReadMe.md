@@ -136,11 +136,138 @@ For a novice writer who doesn’t know where to begin, a good starting point is 
 
   When discussing a reference with more than two authors, all but the first author’s name can be replaced by “et al.” 																																																																																																																																																																																																																																																	
 
-- 
+## Writing details
 
-### 
+### The Opening Paragraphs
 
-### kahsf 
+The abstract should be written especially well, without an unnecessary word, and the opening sentence should be direct and straightforward. 
+
+>  The first paragraphs must be intelligible to any likely reader. 
+
+That is, describe what you have done without the details of how it was done. 
+
+Starting an abstract or introduction with “This paper concerns” or “In this paper” often means that results are going to be stated out of context. 
+
+- (现状) Most numerical computation is dedicated to manipulation of matrices, but matrix operations are difficult to implement efficiently in current high-level programming languages. (results:) In this paper we describe a new programming lan- guage with matrix manipulation operators. 
+
+2. Beginning a paper by stating that a topic is popular or that a problem is important is flat and uninspiring.  Such openings succeed in establishing context but fail in motivation.
+
+Ask yourself, whether the opening sentence is **clear? easy understand? stating context? assertion? cause and results? positive?** 
+
+### Variation
+
+Diversity—in organization, structure, length of sentences and paragraphs, and word choice—helps to keep the reader’s attention. 
+
+### Paragraphing 
+
+- A paragraph should discuss a single topic or issue. The outline or the argument is typically captured in the first sentence of each paragraph.
+- Every sentence in a paragraph should be on the topic announced in the opening. The last sentence has higher impact than those in the body, so pay attention to sentence order. 
+- If a long paragraph can be broken, break it.  
+- Contextual information can be forgotten between paragraphs, and references between paragraphs can be difficult to follow.  **Do not use THIS/ HIS/… at the beginning of the paragraph.**
+- **Formatted lists** is a good choice. (Reserve lists for material that is both significant and in need of enumeration. )
+
+### Ambiguity 
+
+- When using pronouns such as “it”, “this”, and “they”, ensure that the reader knows what is being referred to.  Maybe you can use the **noun** again to specify it.
+
+- Another problem with “it” is that it is overused.  
+
+  > The machine crashed and it was necessary to reboot it. 
+
+- Premature pronouns also lead to difficulties. 
+
+  > When recursive compilation was first developed, **it** was impractically slow and required too much memory. 
+
+### Sentence Structure 
+
+- Sentences should have simple structure, which usually means that they will be no more than a line or two. Don’t say too much all at once. 
+
+- Watch out for fractured “if” expressions. 
+
+  >  If <—> when
+
+- Double negatives can be difficult to parse and are ambiguous.  
+
+- The opening phrase can, without the context provided by the rest of the sentence, be interpreted as handles for classifying.
+
+- If an “-ing” suffix can be replaced by “-ation of”, as in this example, then it is probably a good idea to do so. 
+
+  > replaing "-ing" with "-ation of"
+
+
+
+Ask yourself what is the **Motivation? purpose? necessary? simplified?**
+
+### Tense (past / present)
+
+- It is better to write “related issues are discussed below” than to write “related issues will be discussed below”.
+- Past tense is used for describing work and outcomes. Thus we write “the ideas were tested by experiment”, not “the ideas are tested by experiment”.  
+- Either past or present tense can be used for discussion of **references**. **Present** tense is preferable but past tense can be forced by context. 
+
+### Repetition and Parallelism 
+
+“however”, “moreover”, “there- fore”, “hence”, “thus”, “and”, “but”, “then”, “so”, “nevertheless”, or “nonetheless”. Likewise, don’t overuse the pattern “First, ... Second, ... Last, ...”. 
+
+
+
+- Complementary concepts should be explained as parallels, or the reader will have difficulty seeing how the concepts relate to each other. （格式一致， 看起来方便）
+
+  > In SIMD, multiple data sets **are processed simultaneously by** the same instruc- tions, whereas in MIMD multiple data sets **are processed simultaneously by** different instructions. 
+
+- This can be further improved. It is kinder to the reader to move the longer clauses in a list to the end. (并列，长的放后面)
+
+### Emphasis 
+
+using structure of a sentence, not *italiciza* or CAPITALS.
+
+###Definitions
+
+The first time they are used. 
+
+### Choice of Words 
+
+- Use short words in preference to long, but use an exact long word rather than an approximate short one. 
+- The “don’t repeat words” rule might apply to creative writing, but not to technical terms that must be clearly understood. 
+- Don’t make excessive claims about your own work 
+
+### Qualifiers
+
+- Don’t pile qualifiers on top of one another. Within a sentence, use at most one qualifier such as “might”, “may”, “perhaps”, “possibly”, “likely”, “likelihood”, or “could”. Overuse of qualifiers results in text that is lame and timid. 
+
+- Qualifiers such as “very” and “quite” should be avoided, because they are in 
+
+  effect meaningless. 
+
+- Delete —> [Other words of this kind are “totally”, “completely”, “truly”, “highly”, “usually”, “accordingly”, “certainly”, “necessarily”, and “somewhat”. ]
+
+### Misused Words 
+
+- **Which, that, the.** Many writers use “which” when “that” is appropriate. Use “which” only when it cannot be replaced by “that”.
+-  Do not omit **that** or **which**.
+- Delete “**the**” is often used unnecessarily;
+- **Less, fewer.** Use “less” for continuous quantities (“it used less space”) and “fewer” for discrete quantities (“there were fewer errors”). 
+- **Affect, effect.** The “effect”, or consequence, of an action is to “affect”, or influence, outcomes. 
+- **May, might, can.** Many writers use “may” or “might” when they mean “can”. Use “may” to indicate personal choice, and “can” to indicate capability. 
+- **Basic, fundamental**. Some writers confuse “**basic**” with “fundamental”: the former means elementary as well as a foundation. A result should only be described as “basic” if **elementary** is meant, or readers may get the wrong idea. 
+- **Novel, complex, sophisticated**. “Sophisticated” does not mean new or novel, but either advanced or complex. Use “novel” or “complex” if these meanings are intended. 
+- **Continual, continuous**. “Continual” is not equivalent to “continuous”. The former means ceaselessly; the latter means unbroken. 
+- **Conversely, inversely, similarly, likewise**. Only use “conversely” if the statement that follows really is the opposite of the preceding material. Don’t use “similarly” or “likewise” unless whatever follows has a strong parallel to the preceding material. Some authors use “inversely”, but the meaning is rarely clear; avoid it. 
+- **Fast, quickly, presently, timely, currently**. A process is “fast” if it runs quickly; “quickly” means fast, but does not necessarily mean in the near future. Something is “timely” if it is opportune; timeliness has nothing to do with rapidity. Also on the subject of time, “presently” means soon, whereas “currently” means at present. 
+
+### Spelling Conventions 
+
+### overuse of words
+
+- Repetition of a word is annoying when it makes the reader feel they have read the same phrase twice, or have read a phrase and an inversion of it. 
+- Repetition should be eliminated when the same word is used in different senses, or when a word and a synonym of it are used together. 
+
+### Abbreviations 
+
+never use **1st, 2nd, etc.** 
+
+### Sexism 
+
+Use **they** rather than **he/she**.
 
 
 
