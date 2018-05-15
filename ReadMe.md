@@ -8,7 +8,7 @@
 
 Do not use the word unclear.
 
-## Orgnization
+## Orgnization. 
 
 - Describe the work in an accepted scientific knowledge.
 
@@ -23,14 +23,9 @@ Do not use the word unclear.
 ## Title and Author
 
 - Use the same style for your name on all your papers.
+- Titles of papers and sections should be concise and informative, have specific rather than general terms, and accurately describe the content. Complicated titles with long words are hard to digest.
 
-- Titles of papers and sections should be concise and informative, have specific rather than general terms, and accurately describe the content. Complicated titles with long words are hard to digest. 
-
-  
-
-  
-
-### Abstract 
+## Abstract
 
 - length 50-200 words.
 
@@ -46,7 +41,7 @@ Do not use the word unclear.
 
   Five sentences are enough, one for each of the points above.
 
-### Introduction
+## Introduction
 
 An expanded version of the abstract, but with a paragraph or two, not a sentence, for each component.
 
@@ -58,9 +53,9 @@ An expanded version of the abstract, but with a paragraph or two, not a sentence
   3. why the approach taken is a good one, and why the outcomes are significant.
 - The reader should understand the scope of the work, and of the problem and the contribution.
 
-### Body
+## Body
 
-### Conclusions
+## Conclusions
 
 Write "**Conslusions**" not "conclusion".
 
@@ -68,7 +63,7 @@ Write "**Conslusions**" not "conclusion".
 
 **Future work** look beyond the current context.
 
-### The first draft
+## The first draft
 
 > The writing should begin as soon as the research is started. 
 
@@ -76,15 +71,13 @@ Write "**Conslusions**" not "conclusion".
 
 Mathematical content, definitions, and the problem statement should be made precise as early as possible.
 
-### From Draft to Submission 
+## From Draft to Submission
 
 Introduction—>Body—>Summary—>Introduction—>Abstract
 
 For a novice writer who doesn’t know where to begin, a good starting point is imitation. Choose a paper or thesis whose results are of a similar flavour to your own, analyze its organization, and sketch an organization for your results based on the same pattern. The habit of using similar patterns for papers—their standardization—helps to make them easier to read. 
 
-
-
-### Good Style
+## Good Style
 
 - Economy 
 
@@ -145,7 +138,7 @@ For a novice writer who doesn’t know where to begin, a good starting point is 
 
 - 
 
-### skjhf
+### 
 
 ### kahsf 
 
